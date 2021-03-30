@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="nmedia">NMedia!</string>
+    <string name="description_likes" translatable="false">likes</string>
+    <string name="description_share" translatable="false">share</string>
+    <string name="description_views" translatable="false">Views</string>
+    <string name="description_post_author_avatar" translatable="false">avatar</string>
+    <string name="description_menu" translatable="false">menu</string>
+    <string name="edit">Edit</string>
+    <string name="new_post_button">New post button</string>
+    <string name="remove">Delete</string>
+    <string name="new_post_text">New post</string>
+    <string name="error_empty_content">Ошибка: пустое сообщение</string>
+    <string name="cancel">Отменить редактирование</string>
+    <string name="description_post_like">post like</string>
+    <string name="description_post_share">post share</string>
+    <string name="description_post_view">post view</string>
+    <string name="description_post_save">post save</string>
+    <string name="chooser_share_post">Поделиться</string>
+    <string name="add_post">Post add</string>
+    <string name="watch_video">Смотреть видео</string>
+    <string name="write_post">Напишите пост</string>
+</resources>
